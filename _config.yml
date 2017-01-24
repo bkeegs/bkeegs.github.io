@@ -14,9 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Brennan Keegan
-email: brendan.keenan [at] gmail .com
+email: brennan keegan [at] gmail .com
 description: > # this means to ignore newlines until "baseurl:"
-  General site for hardware projects and CV.
+  General site for personal hardware projects and blog posts.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: b_keegs11
