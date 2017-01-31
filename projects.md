@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Projects
+title: Electronics Projects
 permalink: /projects/
+order: 2
 ---
 
 Mixtape Audio Board:

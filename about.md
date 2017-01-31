@@ -1,7 +1,8 @@
 ---
 layout: page
-title: About Me
+title: About
 permalink: /about/
+order: 3
 ---
 
 I grew up in Maryland, in the countryside outside Washington D.C.
