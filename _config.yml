@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Brennan Keegan
 email: brennan keegan [at] gmail .com
-description: |
+description: >
 Site for personal hardware projects and blog. 
 This site is new and still under construction.
 baseurl: "" # the subpath of your site, e.g. /blog
