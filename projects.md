@@ -5,6 +5,8 @@ permalink: /projects/
 order: 2
 ---
 
-Mixtape Audio Board:
+* [Mixtape Audio Board](https://github.com/bkeegs/Mixtape-Board)
+* [18650 Charger Board](https://github.com/bkeegs/18650-Charge-Board)
+* ATXMega Breakout Board (needs github upload)
+* Teensy Chiptune (needs link, video)
 
-ATXMega Breakout Board:
