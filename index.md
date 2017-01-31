@@ -7,8 +7,11 @@ title: Welcome
 order: 1
 ---
 
-Stuff in here??
+Hi there!
 
-Like this stuff.
+Feel free to check out some of my recent personal projects:
+[Mixtape Audio Board](https://github.com/bkeegs/Mixtape-Board)
+[18650 Charger Board](https://github.com/bkeegs/18650-Charge-Board)
+ATXMega Breakout Board (needs github upload)
+Teensy Chiptune (needs link, video)
 
-And this stuff.
