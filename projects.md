@@ -11,7 +11,7 @@ Small audio board designed to be a compact way to share a music playlist and rec
 
 Features bluetooth control using the HC-06 module, and is powered by the below 18650 board.
 
-<br><br>
+<br>
 
 ### [18650 Charger Board](https://github.com/bkeegs/18650-Charge-Board)
 
@@ -19,9 +19,13 @@ Simple board for adding a rechargeable 18650 Li-Ion battery to projects.
 
 Based on the Microchip MCP73833 for charge control (constant current at 500mA, then constant voltage at 4.2V).
 
+<br>
+
 ### ATXMega Breakout Board
 
 Breakout board for the ATXMEGA32C4-AUR, mainly for development before using this micro in other projects.
+
+<br>
 
 ### Chiptune Teensy (needs link, video)
 
