@@ -12,8 +12,7 @@ I work on electronics testing and validation in Palo Alto, CA. Specialties inclu
 
 In my spare time, I work on [EE hardware projects](https://bkeegs.github.io/projects/) and play piano.
 
-
-
+<br><br>
 
 #### Past
 
