@@ -23,3 +23,5 @@ I graduated with a B.S. in Electrical Engineering from the [University of Maryla
 
 
 I grew up in Maryland, in a suburb of Washington D.C.
+
+![My helpful screenshot](bkeegs.github.io/assets/images/sloth.jpg)
