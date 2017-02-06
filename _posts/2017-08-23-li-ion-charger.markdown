@@ -21,5 +21,7 @@ Based on the Microchip MCP73833 for charge control (constant current, then const
 ### Built Board:
 (add picture here)
 
-[Github page for this board](https://github.com/bkeegs/18650-Charge-Board)
-Can be ordered from [oshpark here.](https://oshpark.com/shared_projects/FoScnJAu)
+<br><br>
+[Github page](https://github.com/bkeegs/18650-Charge-Board)
+<br>
+Ordered from [oshpark here.](https://oshpark.com/shared_projects/FoScnJAu)

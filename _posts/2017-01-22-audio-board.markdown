@@ -1,25 +1,37 @@
 ---
 layout: post
-title:  "First Post!"
+title:  "Mixtape Board"
 date:   2017-01-22 22:31:45 -0800
 categories: random
 ---
-This will eventually become my site for various electronics and other hardware projects. 
+# Mixtape Board
+Oct. 2016 - Dec. 2016
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+This board is a digital "mixtape," designed to be a compact way to share a music playlist and recordings with friends.
 
-Jekyll also offers powerful support for code snippets:
+Similar to a cassette, when given to others it has a surprise factor of not knowing what's up next.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+Board was built up in December 2016, and general functionality (power regulation, bluetooth control, SD card, audio out) was confirmed.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+### Main Features:
+* Plug-in bluetooth module (like the [HC-06](http://www.gearbest.com/sensors/pp_241478.html) or [CC2540](https://tronixlabs.com.au/breakout-boards/bluetooth/cc2540-serial-bluetooth-v4-0-ble-module-ibeacon-australia/)) allows for remote control with an phone or computer.
+* Power comes from a rechargeable [18650 Li-ion battery.](https://github.com/bkeegs/18650-Charge-Board)
+* Teensy 3.2 is used as the microcontroller.
+* Audio is single channel, 3W Class-D amplifier using a PAM8009DHR
 
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+### Schematic:
+![Schematic]({{ site.url }}/assets/images/mixtape_sch.PNG)
+
+### PCB Top:
+![Schematic]({{ site.url }}/assets/images/mixtape_board1.PNG)
+
+### PCB Bottom:
+![Schematic]({{ site.url }}/assets/images/mixtape_board2.PNG)
+
+### Built Board:
+(add picture here)
+
+<br><br>
+[Github page](https://github.com/bkeegs/18650-Charge-Board)
+<br>
+Ordered from [oshpark here.](https://oshpark.com/shared_projects/jIOHaPzt)
