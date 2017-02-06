@@ -1,25 +1,10 @@
 ---
 layout: post
-title:  "First Post!"
-date:   2017-01-22 22:31:45 -0800
+title:  "Chiptune Teensy"
+date:   2017-02-07 22:31:45 -0800
 categories: hardware_projects
 ---
-This will eventually become my site for various electronics and other hardware projects.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+* Using the Teensy 3.2's 3 clocks to vary PWM frequency, three-voice chiptune music (Mario, Zelda, Tetris) can be played on piezos or small speakers.
+* Github page includes python for midi to timing conversion, and C code for the teensy.
