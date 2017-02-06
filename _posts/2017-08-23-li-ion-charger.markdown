@@ -1,25 +1,25 @@
 ---
 layout: post
-title:  "First Post!"
-date:   2017-01-22 22:31:45 -0800
-categories: random
+title:  "18650 Charger Board"
+date:   2017-02-05 11:49:45 -0800
+categories: hardware_projects
 ---
-This will eventually become my site for various electronics and other hardware projects. 
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+# 18650-Charge-Board
+Jul 2016 - Aug 2016
 
-Jekyll also offers powerful support for code snippets:
+Simple board for adding a rechargeable 18650 Li-Ion battery to projects.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+Based on the Microchip MCP73833 for charge control (constant current, then constant voltage at 4.2V).
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+### Schematic:
+![Schematic]({{ site.url }}/assets/images/powerbank_sch.PNG)
 
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+### PCB:
+![Layout]({{ site.url }}/assets/images/powerbank_layout.PNG)
+
+### Built Board:
+(add picture here)
+
+[Github page for this board](https://github.com/bkeegs/18650-Charge-Board)
+Can be ordered from [oshpark here.](https://oshpark.com/shared_projects/FoScnJAu)
