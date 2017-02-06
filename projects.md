@@ -5,7 +5,7 @@ permalink: /projects/
 order: 2
 ---
 
-### [Mixtape Audio Board](https://bkeegs.github.io/random/2017/02/05/audio-board.html)
+### [Mixtape Audio Board](https://bkeegs.github.io/hardware_projects/2017/02/05/audio-board.html)
 
 * Small audio board designed to be a compact way to share a music playlist and recordings with friends.
 
