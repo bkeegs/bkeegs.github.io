@@ -2,9 +2,9 @@
 layout: post
 title:  "First Post!"
 date:   2017-01-22 22:31:45 -0800
-categories: random
+categories: hardware_projects
 ---
-This will eventually become my site for various electronics and other hardware projects. 
+This will eventually become my site for various electronics and other hardware projects.
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 

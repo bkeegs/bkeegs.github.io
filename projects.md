@@ -5,7 +5,7 @@ permalink: /projects/
 order: 2
 ---
 
-### [Mixtape Audio Board](https://github.com/bkeegs/Mixtape-Board)
+### [Mixtape Audio Board](https://bkeegs.github.io/random/2017/02/06/audio-board.html)
 
 * Small audio board designed to be a compact way to share a music playlist and recordings with friends.
 
@@ -13,7 +13,7 @@ order: 2
 
 <br>
 
-### [18650 Charger Board](https://github.com/bkeegs/18650-Charge-Board)
+### [18650 Charger Board](https://bkeegs.github.io/hardware_projects/2017/02/05/li-ion-charger.html)
 
 * Simple board for adding a rechargeable 18650 Li-Ion battery to projects.
 
@@ -29,6 +29,5 @@ order: 2
 
 ### Chiptune Teensy (needs link, video)
 
-* Using the Teensy 3.2's 3 clocks to vary PWM frequency, three-voice chiptune music (Mario, Zelda, Tetris) can be played on piezos or small speakers. 
+* Using the Teensy 3.2's 3 clocks to vary PWM frequency, three-voice chiptune music (Mario, Zelda, Tetris) can be played on piezos or small speakers.
 * Github page includes python for midi to timing conversion, and C code for the teensy.
-
