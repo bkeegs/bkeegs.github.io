@@ -2,9 +2,11 @@
 layout: post
 title:  "Mixtape Board"
 date:   2017-02-05 23:57:45 -0800
-categories: random
+categories: hardware_projects
 ---
-# Mixtape Board <span>(Oct. 2016 - Dec. 2016)</span>
+# Mixtape Board
+
+(Oct. 2016 - Dec. 2016)
 
 This board is a digital "mixtape," designed to be a compact way to share a music playlist and recordings with friends.
 
