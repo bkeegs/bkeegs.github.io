@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_mine
 title: About
 permalink: /about/
 order: 3
