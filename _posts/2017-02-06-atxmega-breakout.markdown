@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "ATXMEGA32C4 Breakout"
+title:  "ATXMega Breakout"
 date:   2017-02-06 11:31:45 -0800
 categories: hardware_projects
 ---
