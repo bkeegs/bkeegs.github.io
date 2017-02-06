@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_mine
 title: Hardware Projects
 permalink: /projects/
 order: 2
@@ -25,4 +25,4 @@ order: 2
 
 ### [Chiptune Teensy](https://bkeegs.github.io/hardware_projects/2017/02/07/chiptune-teensy.html)
 
-* Simple hack with Teensy 3.2 to play Mario, Zelda, and more
+* Simple hack with Teensy 3.2 to play music from Mario, Zelda, and more
