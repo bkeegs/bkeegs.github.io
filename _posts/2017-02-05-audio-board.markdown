@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mixtape Board"
-date:   2017-02-05 23:57:45 -0800
+date:   2017-02-05 11:57:45 -0800
 categories: hardware_projects
 ---
 # Mixtape Board
