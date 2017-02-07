@@ -16,8 +16,9 @@
 title: Brennan Keegan
 email: brennan keegan [at] gmail .com
 description: # > # this means to ignore newlines until "baseurl:"
-  Site for personal hardware projects and blog.
-  This site is new and still under construction.
+  Copyright © Brennan Keegan 2017
+  # Site for personal hardware projects and blog.
+  # This site is new and still under construction.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: b_keegs11

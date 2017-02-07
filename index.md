@@ -9,14 +9,6 @@ order: 1
 
 Hi there!
 
+I'm an engineer/maker who is passionate about electronics and PCBs.
 
-Feel free to check out some of my recent personal projects:
-
-* [Mixtape Audio Board](https://github.com/bkeegs/Mixtape-Board)
-
-* [18650 Charger Board](https://github.com/bkeegs/18650-Charge-Board)
-
-* ATXMega Breakout Board (needs github upload)
-
-* Teensy Chiptune (needs link, video)
-
+Feel free to check out some of my recent hardware projects [here.](https://bkeegs.github.io/projects/)

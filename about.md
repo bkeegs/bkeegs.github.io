@@ -1,12 +1,26 @@
 ---
-layout: page
+layout: page_mine
 title: About
 permalink: /about/
 order: 3
 ---
+<br>
 
-I grew up in Maryland, in the countryside outside Washington D.C.
+### Present
 
-I graduated with bachelor's in Electrical Engineering from the University of Maryland, College Park in 2012. EWB, Signal Processing
+I work on electronics testing and validation in Palo Alto, CA. Specialties include developing test hardware, PCB debug, test automation (Python, C), and data capture/analysis.
 
-From 2012 to 2014 I completed a Chinese-language Master's in International Studies at the Hopkins-Nanjing Center in Nanjing, China. My Master's thesis was on update later...
+
+In my spare time, I work on [EE hardware projects](https://bkeegs.github.io/projects/) and play piano.
+
+<br>
+
+### Past
+
+From 2012 to 2014, I lived in Nanjing, China, studying at the [Hopkins-Nanjing Center for Chinese and American Studies](https://www.sais-jhu.edu/graduate-studies/campuses/nanjing-china#about-hopkins-nanjing-center). My Chinese-language master's thesis was an economic study of wind vs. coal power across China's 32 main provinces and regions.
+
+
+I graduated with a B.S. in Electrical Engineering from the [University of Maryland](http://www.umd.edu/) in 2012. During my time there, I was deeply involved in Engineers Without Borders.
+
+
+I grew up in Maryland, in a suburb of Washington D.C.
