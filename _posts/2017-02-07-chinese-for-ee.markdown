@@ -5,7 +5,9 @@ date:   2017-02-07 11:31:45 -0800
 categories: blog
 ---
 
-This first post to show Chinese electrical engineering
+# Chinese for EE's Pt. 1
+
+First post in a series to cover basic vocab needed for communicating with electronics suppliers and manufacturers located in China. This first post will cover some general EE terms, as well as common electrical devices/tools. 
 
 | 中文          | Pinyin           | English  |
 | ------------- |:-------------:| -----:|
