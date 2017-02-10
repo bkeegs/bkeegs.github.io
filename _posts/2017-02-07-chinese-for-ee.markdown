@@ -11,6 +11,9 @@ First post in a series to cover basic vocab needed for communicating with electr
 
 This post is under construction...
 
+
+
+## Electrical General Terms
 | Chinese | Pinyin | English |
 |:--------:|:-------:|:--------:|
 | 电压   | dian ya   | Voltage   |
@@ -18,7 +21,7 @@ This post is under construction...
 | 电位   | dian wei   | Electric Potential   |
 |----
 | 电流   | dian liu   | Current   |
-|=====
+|----
 | 交流电   | jiao liu dian   | AC   |
 |----
 | 直流电   | zhi liu dian   | DC   |
@@ -33,33 +36,49 @@ This post is under construction...
 |----
 | 电感、感应系数   | zhi liu dian   | Inductance   |
 |----
+
+
+
+## Electrical Devices
+| Chinese | Pinyin | English |
+|:--------:|:-------:|:--------:|
 | 电阻   | dian zu   | Resistor   |
 |----
 | 电容   | dian rong   | Capacitor   |
 |----
 | 电感   | dian gan   | Inductor   |
 |----
+| 芯片   | xin pian   | Integrated Circuit (IC)   |
+|----
+| 二极管   | er ji guan   | Diode   |
+|----
+| 齐纳   | qi na   | Zener Diode   |
+|----
+| 齐纳   | qi na   | Schottky Diode   |
+|----
+| 齐纳   | qi na   | Transistor   |
+|----
+| 齐纳   | qi na   | MOSFET   |
+|----
+| 齐纳   | qi na   | BJT   |
+|----
 
+## In the Lab
+| Chinese | Pinyin | English |
+|:--------:|:-------:|:--------:|
+| 电源   | qi na   | Power Supply   |
+|----
+| 电阻   | dian zu   | Oscilloscope   |
+|----
+| 电容   | dian rong   | Probe (n.)   |
+|----
+| 电感   | dian gan   | Function Generator   |
+|----
+| 芯片   | xin pian   | Variable Load   |
+|----
+| 二极管   | er ji guan   | DAQ   |
+|----
 
-电压 Voltage
-电位 Electric Potential
-电流 Current
-交流电 AC
-直流电 DC
-地 Ground
-
-电阻 Resistance
-阻抗 Impedance
-电容、 电流容量 Capacitance
-电感、感应系数 Inductance
-
-电阻 Resistor
-电容 Capacitor
-电感 Inductor
-
-芯片 Chip
-二极管 Diode
-齐纳 Zener
 
 焊料 Solder (n.)
 Flux （solder）
@@ -69,10 +88,6 @@ Flux （solder）
 Linear Regulator
 Switched-mode Power Supply
 
-电源 Power Supply
- Oscilloscope
- Probe (n.)
- Function Generator
- Variable Load
- DAQ
+ 
+ 
 
