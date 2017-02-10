@@ -14,6 +14,7 @@ This post is under construction...
 
 
 ## Electrical General Terms
+
 | Chinese | Pinyin | English |
 |:--------:|:-------:|:--------:|
 | 电压   | dian ya   | Voltage   |
@@ -35,11 +36,11 @@ This post is under construction...
 | 电容、 电流容量   | dian rong 、 dian liu rong liang   | Capacitance   |
 |----
 | 电感、感应系数   | zhi liu dian   | Inductance   |
-|----
 
 
 
 ## Electrical Devices
+
 | Chinese | Pinyin | English |
 |:--------:|:-------:|:--------:|
 | 电阻   | dian zu   | Resistor   |
@@ -61,9 +62,10 @@ This post is under construction...
 | 齐纳   | qi na   | MOSFET   |
 |----
 | 齐纳   | qi na   | BJT   |
-|----
+
 
 ## In the Lab
+
 | Chinese | Pinyin | English |
 |:--------:|:-------:|:--------:|
 | 电源   | qi na   | Power Supply   |
@@ -77,7 +79,6 @@ This post is under construction...
 | 芯片   | xin pian   | Variable Load   |
 |----
 | 二极管   | er ji guan   | DAQ   |
-|----
 
 
 焊料 Solder (n.)
