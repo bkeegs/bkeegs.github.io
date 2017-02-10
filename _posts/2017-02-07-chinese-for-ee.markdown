@@ -14,13 +14,18 @@ This post is under construction...
 | Header1 | Header2 | Header3 |
 |:--------|:-------:|--------:|
 | cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
 |----
 | cell1   | cell2   | cell3   |
 | cell4   | cell5   | cell6   |
 |=====
 | Foot1   | Foot2   | Foot3
 {: rules="groups"}
+
+| Item | Description | Price |
+| --- | --- | ---: |
+| item1 | item1 description | 1.00 |
+| item2 | item2 description | 100.00 |
+{:.mbtablestyle}
 
 
 电压 Voltage
