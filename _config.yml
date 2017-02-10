@@ -27,10 +27,7 @@ footer_name: "Contact:"
 
 # Build settings
 markdown: kramdown
-kramdown:
-  input: GFM
-  auto_ids: true
-  syntax_highlighter: rouge
+
 theme: minima
 gems:
   - jekyll-feed

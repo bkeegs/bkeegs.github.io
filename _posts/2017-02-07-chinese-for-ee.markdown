@@ -11,17 +11,25 @@ First post in a series to cover basic vocab needed for communicating with electr
 
 This post is under construction...
 
-| Header1 | Header2 | Header3 |
+| Chinese | Pinyin | English |
 |:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
+| 电压   | dian ya   | Voltage   |
 |----
-| cell1   | cell2   | cell3   |
+| 电位   | cell2   | Electric Potential   |
+|----
+| 电位   | cell2   | Electric Potential   |
+|=====
+| 电位   | cell2   | Electric Potential   |
+|----
+| 电位   | cell2   | Electric Potential   |
+|----
+
+
 | cell4   | cell5   | cell6   |
 |=====
 | Foot1   | Foot2   | Foot3
-{: rules="groups"}
 
-
+| Item | Description |
 |----+----|
 | cell2   | cell3   |
 +----|----+
