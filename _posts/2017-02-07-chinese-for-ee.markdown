@@ -36,11 +36,7 @@ This post is under construction...
 | 电容、 电流容量   | dian rong 、 dian liu rong liang   | Capacitance   |
 |----
 | 电感、感应系数   | zhi liu dian   | Inductance   |
-
-
-
-## Electrical Devices
-
+| ## Electrical Devices
 | Chinese | Pinyin | English |
 |:--------:|:-------:|:--------:|
 | 电阻   | dian zu   | Resistor   |
