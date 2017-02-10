@@ -24,3 +24,9 @@ I graduated with a B.S. in Electrical Engineering from the [University of Maryla
 
 
 I grew up in Maryland, in a suburb of Washington D.C.
+
+| Item | Description | Price |
+| --- | --- | ---: |
+| item1 | item1 description | 1.00 |
+| item2 | item2 description | 100.00 |
+{:.mbtablestyle}
