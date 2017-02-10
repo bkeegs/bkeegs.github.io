@@ -21,6 +21,7 @@ This post is under construction...
 | Foot1   | Foot2   | Foot3
 {: rules="groups"}
 
+
 | Item | Description | Price |
 | --- | --- | ---: |
 | item1 | item1 description | 1.00 |
