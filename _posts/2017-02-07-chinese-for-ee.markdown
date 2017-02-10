@@ -12,38 +12,33 @@ First post in a series to cover basic vocab needed for communicating with electr
 This post is under construction...
 
 | Chinese | Pinyin | English |
-|:--------|:-------:|--------:|
+|:--------:|:-------:|:--------:|
 | 电压   | dian ya   | Voltage   |
 |----
-| 电位   | cell2   | Electric Potential   |
+| 电位   | dian wei   | Electric Potential   |
 |----
-| 电位   | cell2   | Electric Potential   |
+| 电流   | dian liu   | Current   |
 |=====
-| 电位   | cell2   | Electric Potential   |
+| 交流电   | jiao liu dian   | AC   |
 |----
-| 电位   | cell2   | Electric Potential   |
+| 直流电   | zhi liu dian   | DC   |
 |----
-
-
-| cell4   | cell5   | cell6   |
-|=====
-| Foot1   | Foot2   | Foot3
-
-| Item | Description |
-|----+----|
-| cell2   | cell3   |
-+----|----+
-| cell2   | cell3   |
-|---------|
-|-
-| :-----: |
--|-
-
-| Item | Description | Price |
-| --- | --- | ---: |
-| item1 | item1 description | 1.00 |
-| item2 | item2 description | 100.00 |
-{:.mbtablestyle}
+| 地   | di   | Ground   |
+|----
+| 电阻   | dian zu   | Resistance   |
+|----
+| 阻抗   | zu kang   | Impedance   |
+|----
+| 电容、 电流容量   | dian rong 、 dian liu rong liang   | Capacitance   |
+|----
+| 电感、感应系数   | zhi liu dian   | Inductance   |
+|----
+| 电阻   | dian zu   | Resistor   |
+|----
+| 电容   | dian rong   | Capacitor   |
+|----
+| 电感   | dian gan   | Inductor   |
+|----
 
 
 电压 Voltage
