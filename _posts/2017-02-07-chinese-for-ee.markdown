@@ -22,6 +22,15 @@ This post is under construction...
 {: rules="groups"}
 
 
+|----+----|
+| cell2   | cell3   |
++----|----+
+| cell2   | cell3   |
+|---------|
+|-
+| :-----: |
+-|-
+
 | Item | Description | Price |
 | --- | --- | ---: |
 | item1 | item1 description | 1.00 |
