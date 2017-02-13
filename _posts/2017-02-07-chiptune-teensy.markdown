@@ -5,7 +5,7 @@ date:   2017-02-07 11:31:45 -0800
 categories: hardware_projects
 ---
 
-(Youtube video goes here)
+(Youtube video to be uploaded here)
 
 This hack was designed as a minimal chiptune player for 3 voices using just a Teensy 3.2 and 3 piezoelectric buzzers.
 

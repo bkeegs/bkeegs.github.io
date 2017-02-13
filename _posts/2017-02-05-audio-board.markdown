@@ -4,9 +4,7 @@ title:  "Mixtape Board"
 date:   2017-02-05 11:57:45 -0800
 categories: hardware_projects
 ---
-# Mixtape Board
-
-(Oct. 2016 - Dec. 2016)
+Project Timeline: Oct. 2016 - Dec. 2016
 
 This board is a digital "mixtape," designed to be a compact way to share a music playlist and recordings with friends.
 
@@ -24,6 +22,11 @@ Board was built up in December 2016, and general functionality (power regulation
 
 <br>
 
+### Built PCB:
+![Schematic]({{ site.url }}/assets/images/mixtape/mixtape_board.JPG)
+
+<br><br>
+
 ### Schematic:
 ![Schematic]({{ site.url }}/assets/images/mixtape/mixtape_sch.PNG)
 
@@ -39,10 +42,17 @@ Board was built up in December 2016, and general functionality (power regulation
 
 <br>
 
-### Built Board:
-(add picture here)
+### Assembled Stackup:
+![Schematic]({{ site.url }}/assets/images/mixtape/mixtape_stackup.JPG)
+
+<br>
+
+### Disassembled Stackup:
+![Schematic]({{ site.url }}/assets/images/mixtape/mixtape_assembly.JPG)
+
+<br>
 
 <br><br>
 [Github page](https://github.com/bkeegs/18650-Charge-Board)
 <br>
-Ordered from [oshpark here.](https://oshpark.com/shared_projects/jIOHaPzt)
+Main audio board can be ordered from [oshpark here.](https://oshpark.com/shared_projects/jIOHaPzt)

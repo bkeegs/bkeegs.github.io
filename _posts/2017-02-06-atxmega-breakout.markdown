@@ -12,6 +12,8 @@ This is a simple breakout for the ATXMEGA32C4-AUR microcontroller ([digi-key](ht
 Update 2/12/17 -
 Two PCBs built up, now working on the firmware for this board.
 
+<br>
+
 ### Built PCB:
 ![Schematic]({{ site.url }}/assets/images/atxmega/atxmega_built.PNG)
 
