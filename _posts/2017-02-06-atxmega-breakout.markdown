@@ -1,34 +1,36 @@
 ---
 layout: post
-title:  "ATXMega Breakout"
+title:  "AVR XMEGA Breakout Board"
 date:   2017-02-06 11:31:45 -0800
 categories: hardware_projects
 ---
 
-# ATXMega_breakout
-Jan. 2017 - Feb. 2017
+Preoject Timeline: Jan. 2017 - Feb. 2017
 
-This is a simple breakout for the [ATXMEGA32C4-AUR](https://www.digikey.com/product-detail/en/microchip-technology/ATXMEGA32C4-AUR/ATXMEGA32C4-AURCT-ND/4119397) microcontroller. I plan on using it as a development platform to integrate this micro in other projects.
+This is a simple breakout for the ATXMEGA32C4-AUR microcontroller ([digi-key](https://www.digikey.com/product-detail/en/microchip-technology/ATXMEGA32C4-AUR/ATXMEGA32C4-AURCT-ND/4119397)). I plan on using it as a development platform to integrate this micro in other projects.
 
-Update 2/7/17 -
-PCBs received from fab, waiting on parts from Digi-key to build up a board or two.
+Update 2/12/17 -
+Two PCBs built up, now working on the firmware for this board.
 
-### PCB Top:
-![Schematic]({{ site.url }}/assets/images/atxmega/atxmega_built1.PNG)
+### Built PCB:
+![Schematic]({{ site.url }}/assets/images/atxmega/atxmega_built.PNG)
 
-###PCB Bottom:
-![Schematic]({{ site.url }}/assets/images/atxmega/atxmega_built2.PNG)
+<br>
 
 ### Schematic:
 ![Schematic]({{ site.url }}/assets/images/atxmega/atxmega_sch.PNG)
 
+<br>
+
 ### CAD Top:
 ![Schematic]({{ site.url }}/assets/images/atxmega/atxmega_board1.PNG)
+
+<br>
 
 ### CAD Bottom:
 ![Schematic]({{ site.url }}/assets/images/atxmega/atxmega_board2.PNG)
 
-
+<br>
 
 Github for this project is [here](https://github.com/bkeegs/ATXMEGA32C4_breakout).
 

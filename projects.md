@@ -17,7 +17,7 @@ order: 2
 
 <br>
 
-### [ATXMega Breakout Board](https://bkeegs.github.io/hardware_projects/2017/02/06/atxmega-breakout.html)
+### ["AVR XMEGA Breakout Board"](https://bkeegs.github.io/hardware_projects/2017/02/06/atxmega-breakout.html)
 
 * Breakout board for the ATXMEGA32C4-AUR
 
