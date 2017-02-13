@@ -13,15 +13,20 @@ This is a simple breakout for the [ATXMEGA32C4-AUR](https://www.digikey.com/prod
 Update 2/7/17 -
 PCBs received from fab, waiting on parts from Digi-key to build up a board or two.
 
+### PCB Top:
+![Schematic]({{ site.url }}/assets/images/atxmega/atxmega_built1.PNG)
+
+###PCB Bottom:
+![Schematic]({{ site.url }}/assets/images/atxmega/atxmega_built2.PNG)
+
 ### Schematic:
 ![Schematic]({{ site.url }}/assets/images/atxmega/atxmega_sch.PNG)
 
-### PCB Top:
+### CAD Top:
 ![Schematic]({{ site.url }}/assets/images/atxmega/atxmega_board1.PNG)
 
-### PCB Bottom:
+### CAD Bottom:
 ![Schematic]({{ site.url }}/assets/images/atxmega/atxmega_board2.PNG)
-
 
 
 
