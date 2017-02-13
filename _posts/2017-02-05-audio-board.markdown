@@ -10,7 +10,7 @@ This board is a digital "mixtape," designed to be a compact way to share a music
 
 Similar to a cassette, when given to others it has a surprise factor of not knowing what's up next.
 
-Board was built up in December 2016, and general functionality (power regulation, bluetooth control, SD card, audio out) was confirmed.
+Board was built up in December 2016, and general functionality (power regulation, bluetooth control, SD card, audio out) was confirmed. Will be uploading the code to github when have it better shape.
 
 <br>
 
