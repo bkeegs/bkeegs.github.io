@@ -13,10 +13,10 @@ Simple board for adding a rechargeable 18650 Li-Ion battery to projects.
 Based on the Microchip MCP73833 for charge control (constant current, then constant voltage at 4.2V).
 
 ### Schematic:
-![Schematic]({{ site.url }}/assets/images/powerbank_sch.PNG)
+![Schematic]({{ site.url }}/assets/images/18650_charger/powerbank_sch.PNG)
 
 ### PCB:
-![Layout]({{ site.url }}/assets/images/powerbank_layout.PNG)
+![Layout]({{ site.url }}/assets/images/18650_charger/powerbank_layout.PNG)
 
 ### Built Board:
 (add picture here)
