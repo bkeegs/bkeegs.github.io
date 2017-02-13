@@ -13,6 +13,6 @@ It uses vishnubob's [python-midi](https://github.com/vishnubob/python-midi) libr
 
 The video above uses piezos to show simplicity but I have tried it using three small [amplifier PCBs](https://oshpark.com/projects/DPx0NZIw), speakers, and volume control.
 
-All midi files used are from [http://www.khinsider.com/midi](http://www.khinsider.com/midi). 
+All midi files used are from [http://www.khinsider.com/midi](http://www.khinsider.com/midi).
 
 [Github page](https://github.com/bkeegs/chiptune_teensy) includes python for midi to timing conversion, and C code for the teensy.

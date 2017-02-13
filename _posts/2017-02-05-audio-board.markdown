@@ -25,17 +25,17 @@ Board was built up in December 2016, and general functionality (power regulation
 <br>
 
 ### Schematic:
-![Schematic]({{ site.url }}/assets/images/mixtape_sch.PNG)
+![Schematic]({{ site.url }}/assets/images/mixtape/mixtape_sch.PNG)
 
 <br>
 
 ### PCB Top:
-![Schematic]({{ site.url }}/assets/images/mixtape_board1.PNG)
+![Schematic]({{ site.url }}/assets/images/mixtape/mixtape_board1.PNG)
 
 <br>
 
 ### PCB Bottom:
-![Schematic]({{ site.url }}/assets/images/mixtape_board2.PNG)
+![Schematic]({{ site.url }}/assets/images/mixtape/mixtape_board2.PNG)
 
 <br>
 
