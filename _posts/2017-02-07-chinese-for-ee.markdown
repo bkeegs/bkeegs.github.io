@@ -7,9 +7,7 @@ categories: blog
 
 # Chinese for EE's Pt. 1
 
-First post in a series to cover basic vocab needed for communicating with electronics suppliers and manufacturers located in China. This first post will cover some general EE terms, as well as common electrical devices/tools.
-
-This post is under construction...
+Recently I've been studying technical engineering terms in Mandarin, for fun and to have better access to the many Chinese-language datasheets out there. As I collect vocab lists and terms, I'll be posting them on this site in a series of blog posts.
 
 
 

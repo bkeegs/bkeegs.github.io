@@ -18,7 +18,7 @@ Board was built up in December 2016, and general functionality (power regulation
 
 ### Main Features:
 * Plug-in bluetooth module (like the [HC-06](http://www.gearbest.com/sensors/pp_241478.html) or [CC2540](https://tronixlabs.com.au/breakout-boards/bluetooth/cc2540-serial-bluetooth-v4-0-ble-module-ibeacon-australia/)) allows for remote control with an phone or computer.
-* Power comes from a rechargeable [18650 Li-ion battery.](https://github.com/bkeegs/18650-Charge-Board)
+* Power comes from a rechargeable [18650 Li-ion battery.](https://bkeegs.github.io/hardware_projects/2017/02/05/li-ion-charger.html)
 * Teensy 3.2 is used as the microcontroller.
 * Audio is single channel, 3W Class-D amplifier using a PAM8009DHR
 
