@@ -5,9 +5,9 @@ date:   2017-02-09 11:31:45 -0800
 categories: blog
 ---
 
-# Chinese for EE's Pt. 1
+<br>
 
-Recently I've been studying technical engineering terms in Mandarin, for fun and to have better access to the many Chinese-language datasheets out there. As I collect vocab lists and terms, I'll be posting them on this site in a series of blog posts.
+Recently I've been studying technical engineering terms in Mandarin, both for fun and to have better access to the many Chinese-language datasheets out there. As I collect vocab lists and terms, I'll be posting them on this site in a series of blog posts.
 
 
 
