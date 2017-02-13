@@ -8,10 +8,10 @@ order: 3
 
 ### Present
 
-I work on electronics testing and validation in Palo Alto, CA. Specialties include developing test hardware, PCB debug, test automation (Python, C), and data capture/analysis.
+I work in electronics testing and validation in Palo Alto, CA. Specialties include developing test hardware (Altium), PCB debug, test automation (Python, C), and data capture/analysis.
 
 
-In my spare time, I work on [EE hardware projects](https://bkeegs.github.io/projects/) and play piano.
+In my spare time, I work on [EE hardware projects](https://bkeegs.github.io/projects/) and play piano for fun.
 
 <br>
 
@@ -24,5 +24,3 @@ I graduated with a B.S. in Electrical Engineering from the [University of Maryla
 
 
 I grew up in Maryland, in a suburb of Washington D.C.
-
-
