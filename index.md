@@ -16,4 +16,4 @@ Feel free to check out some of my recent hardware projects [here.](https://bkeeg
 
 <br>
 
-![Schematic]({{ site.url }}/assets/images/mixtape/mixtape_assembly.JPG)
+![Schematic]({{ site.url }}/assets/images/mixtape/mixtape_assembly_small.JPG)
