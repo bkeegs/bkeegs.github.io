@@ -13,6 +13,8 @@ order: 2
 
 ### [18650 Charger Board](https://bkeegs.github.io/hardware_projects/2017/02/05/li-ion-charger.html)
 
+![Picture]({{ site.url }}/assets/images/18650_charger/powerbank_built2_small.PNG)
+
 * PCB for adding a rechargeable 18650 Li-Ion battery to projects.
 
 <br>
