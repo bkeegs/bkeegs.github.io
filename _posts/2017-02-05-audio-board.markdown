@@ -53,6 +53,7 @@ Board was built up in December 2016, and general functionality (power regulation
 <br>
 
 <br><br>
-[Github page](https://github.com/bkeegs/18650-Charge-Board)
+#### Links:
+* [Github page](https://github.com/bkeegs/18650-Charge-Board)
 <br>
-Main audio board can be ordered from [oshpark here.](https://oshpark.com/shared_projects/jIOHaPzt)
+* Main audio board can be ordered from [oshpark here.](https://oshpark.com/shared_projects/jIOHaPzt)

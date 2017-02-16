@@ -31,7 +31,7 @@ Based on the Microchip MCP73833 for charge control (constant current, then const
 ![Schematic]({{ site.url }}/assets/images/18650_charger/powerbank_built2.PNG)
 
 <br><br>
-
+#### Links:
 [Github page](https://github.com/bkeegs/18650-Charge-Board)
 <br>
 Ordered from [oshpark here.](https://oshpark.com/shared_projects/FoScnJAu)
