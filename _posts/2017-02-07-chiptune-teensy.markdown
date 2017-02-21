@@ -17,7 +17,7 @@ This project uses vishnubob's [python-midi](https://github.com/vishnubob/python-
 
 The video above uses piezos to show simplicity but I have tried it using three small [amplifier PCBs](https://oshpark.com/projects/DPx0NZIw), speakers, and volume control.
 
-Finally, because most of the Teensy's [PWM outputs](https://www.pjrc.com/teensy/td_pulse.html) are tied to the same internal clock, I needed to access a pad on the bottom of the board in order to have three separate frequencies output simultaneously. The simple fix for accessing this pad is below:
+Finally, because most of the Teensy's PWM outputs are tied to the same internal clock (see section on PWM Frequency [here](https://www.pjrc.com/teensy/td_pulse.html)), I needed to access a pad on the bottom of the board in order to have three separate frequencies output simultaneously. The simple fix for this is below:
 
 ![Solder to Pin 25]({{ site.url }}/assets/images/chiptune/chiptune_mod_small.JPG)
 
