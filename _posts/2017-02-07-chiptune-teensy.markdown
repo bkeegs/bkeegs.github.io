@@ -7,6 +7,10 @@ categories: hardware_projects
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vXwI87gkwMY" frameborder="0" allowfullscreen></iframe>
 
+<br>
+
+<br>
+
 It's not music to everyone's ears, but to me this old "chiptune" music has a certain nostalgia to it.
 
 This hack was designed as a minimal chiptune player for 3 voices using just a Teensy 3.2 and 3 piezoelectric buzzers. Using the Teensy 3.2's independent clocks to vary PWM frequency on three output pins, 3-voice music (Mario, Zelda, Pokemon, etc.) can be played.
@@ -15,6 +19,7 @@ This project uses vishnubob's [python-midi](https://github.com/vishnubob/python-
 
 The video above uses piezos to show simplicity but I have tried it using three small [amplifier PCBs](https://oshpark.com/projects/DPx0NZIw), speakers, and volume control. It sounds a bit better, mainly due to the piezo's frequency response  
 
+<br>
 
 #### Links:
 * [Github page](https://github.com/bkeegs/chiptune_teensy) includes python for midi to timing conversion, and generated C code for the teensy.
