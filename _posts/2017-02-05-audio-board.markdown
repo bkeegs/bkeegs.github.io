@@ -23,7 +23,7 @@ Board was built up in December 2016, and general functionality (power regulation
 <br>
 
 ### Built PCB:
-![Schematic]({{ site.url }}/assets/images/mixtape/mixtape_board.JPG)
+![Schematic]({{ site.url }}/assets/images/mixtape/mixtape_board_small.JPG)
 
 <br><br>
 
@@ -43,12 +43,12 @@ Board was built up in December 2016, and general functionality (power regulation
 <br>
 
 ### Assembled Stackup:
-![Schematic]({{ site.url }}/assets/images/mixtape/mixtape_stackup.JPG)
+![Schematic]({{ site.url }}/assets/images/mixtape/mixtape_stackup_small.JPG)
 
 <br>
 
 ### Disassembled Stackup:
-![Schematic]({{ site.url }}/assets/images/mixtape/mixtape_assembly.JPG)
+![Schematic]({{ site.url }}/assets/images/mixtape/mixtape_assembly_small.JPG)
 
 <br>
 

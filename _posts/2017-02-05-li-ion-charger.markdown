@@ -13,7 +13,7 @@ Based on the Microchip MCP73833 for charge control (constant current, then const
 <br>
 
 ### Built PCB:
-![Schematic]({{ site.url }}/assets/images/18650_charger/powerbank_built.PNG)
+![Schematic]({{ site.url }}/assets/images/18650_charger/powerbank_built_small.PNG)
 
 <br><br>
 
@@ -28,7 +28,7 @@ Based on the Microchip MCP73833 for charge control (constant current, then const
 <br><br>
 
 ### PCB with Battery:
-![Schematic]({{ site.url }}/assets/images/18650_charger/powerbank_built2.PNG)
+![Schematic]({{ site.url }}/assets/images/18650_charger/powerbank_built2_small.PNG)
 
 <br><br>
 #### Links:
