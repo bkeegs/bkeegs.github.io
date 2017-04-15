@@ -5,8 +5,6 @@ date:   2017-04-15 09:08:00 -0800
 categories: blog
 ---
 
-<br>
-
 I was in China for work recently, and on a weekend off I was in Suzhou so I decided to check out the Saige Electronics Market (赛格电子市场). After reading many posts on the much larger Shenzhen electronics market at Hua Qiang Bei (华强北) but not visited, I was interested to see an electronics market in a another region of China.
 
 The main market is an expansive building with 5 floors, with the bottom three floors containing vendor stalls as far as you can see. The floors were organized along these lines:
