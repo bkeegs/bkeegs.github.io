@@ -15,7 +15,7 @@ Two PCBs built up, now working on the firmware for this board.
 <br>
 
 ### Built PCB:
-![Schematic]({{ site.url }}/assets/images/atxmega/atxmega_built.PNG)
+![Schematic]({{ site.url }}/assets/images/atxmega/atxmega_built_small.JPG)
 
 <br>
 
