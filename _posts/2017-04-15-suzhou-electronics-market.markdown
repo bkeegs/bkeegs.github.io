@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Trip to a Suzhou Electronics Market 苏州的赛格电子市场"
+title:  "Trip to the Suzhou Electronics Market"
 date:   2017-04-15 09:08:00 -0800
 categories: blog
 ---
@@ -27,5 +27,5 @@ My feeling is that the energy and scale of Hua Qiang Bei far exceeds this market
 <br>
 
 For more information on Shenzhen's electronics market and the culture surrounding it, I recommend:
-* (What $50 Buys You at Huaqiangbei, the World’s Most Fascinating Electronic Market)[https://shift.newco.co/what-50-buys-you-at-huaqiangbei-the-worlds-most-fascinating-electronics-market-f0384d9fca32]
-* (Shenzhen: The Silicon Valley of Hardware - Wired Documentary)[https://www.youtube.com/watch?v=SGJ5cZnoodY]
+* [What $50 Buys You at Huaqiangbei, the World’s Most Fascinating Electronic Market](https://shift.newco.co/what-50-buys-you-at-huaqiangbei-the-worlds-most-fascinating-electronics-market-f0384d9fca32)
+* [Shenzhen: The Silicon Valley of Hardware - Wired Documentary](https://www.youtube.com/watch?v=SGJ5cZnoodY)
