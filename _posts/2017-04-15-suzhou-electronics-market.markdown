@@ -17,13 +17,13 @@ The main market is an expansive building with 5 floors, with the bottom three fl
 
 [Passives and transistors]({{ site.url }}/assets/images/electronics_market/IMG_6790.JPG)
 
-I ended up purchasing a wall-wart supply, Wago connectors, some pointy DMM probes, and other small items--all for pretty cheap. It quickly became obvious something I've seen others mention before about Hua Qiang Bei; this type of place is much more "productive" to visit with a BOM in hand, and a reference for how much each part should cost. One item I hoped to find but didn't was an off-brand [Molex universal crimper](https://www.amazon.com/Molex-63811-1000-Service-Grade-Crimping/dp/B00OVF2AKI) which usually goes for about $55 in the US. There were many other crimpers available though.
+I ended up purchasing a wall-wart supply, Wago connectors, some nice DMM probes, and other small items--all for cheap. It quickly became obvious something I've seen others mention before about Hua Qiang Bei; this type of place is much more "productive" to visit with a BOM in hand, and a reference for how much each part should cost. One item I hoped to find but didn't was an off-brand [Molex universal crimper](https://www.amazon.com/Molex-63811-1000-Service-Grade-Crimping/dp/B00OVF2AKI) which usually goes for about $55 in the US. There were many other crimpers available though.
 
 [Industrial lighting :)]({{ site.url }}/assets/images/electronics_market/IMG_6791.JPG)
 
 Across a small outdoor hallway was a 4+ floor building (赛格数码广场) dedicated to cell phones, computers, and accessories dealers. They had repair booths for doing computer and phone repair as well. Here I picked up a few cheap USB LED sticks and some iPhone selfie fans. Many of the fans had a convenient removable silicone-housed adapter that easily switched the power connector from a USB Micro-B to the Apple lightning connector.
 
-Talking with vendors about their products was straightforward and people tended to be patient with me not knowing the technical words for certain things. In parts of China where foreigners are less common, simple interactions can be hard if you're Western-looking regardless of your language level. Suzhou, being very developed and located just West of Shanghai, has a fair amount of expats and people are easier to interact with.
+Talking with vendors about their products was straightforward and people were patient with me just browsing. Suzhou, being highly developed and located just West of Shanghai, has a fair amount of foreign expats so I didn't feel like too much of an oddity when talking with people.
 
 [Bridge between the electronics market and the cell phone/computer market]({{ site.url }}/assets/images/electronics_market/IMG_6793.JPG)
 
