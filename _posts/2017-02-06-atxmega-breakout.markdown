@@ -9,8 +9,6 @@ Preoject Timeline: Jan. 2017 - Feb. 2017
 
 This is a simple breakout for the ATXMEGA32C4-AUR microcontroller ([digi-key](https://www.digikey.com/product-detail/en/microchip-technology/ATXMEGA32C4-AUR/ATXMEGA32C4-AURCT-ND/4119397)). I plan on using it as a development platform to integrate this micro in other projects.
 
-Update 2/12/17 -
-Two PCBs built up, now working on the firmware for this board.
 
 <br>
 
