@@ -7,7 +7,7 @@ categories: blog
 
 ![Bridge between the electronics market and the cell phone/computer market]({{ site.url }}/assets/images/electronics_market/IMG_6793.JPG)
 
-I was in China recently and on a weekend off in Suzhou I decided to check out the nearby SEG Electronics Market (赛格电子市场). After reading a lot about the larger SEG electronics market at Hua Qiang Bei (华强北) in Shenzhen, I was excited to see how this one would compare.
+I was in China recently and on a weekend off I decided to check out the nearby SEG Electronics Market (赛格电子市场). After reading a lot about the larger SEG electronics market at Hua Qiang Bei (华强北) in Shenzhen, I was excited to see how one in Suzhou would compare.
 
 ![Endless Aisles!]({{ site.url }}/assets/images/electronics_market/IMG_6789.JPG)
 
@@ -19,13 +19,15 @@ The main market is an expansive building with 5 floors, with the bottom three fl
 
 ![Industrial lighting :)]({{ site.url }}/assets/images/electronics_market/IMG_6791.JPG)
 
-I picked up a wall-wart supply, Wago connectors, nice DMM probes, and other small items--all for cheap. It quickly became clear something I've read before about Hua Qiang Bei: having a BOM in hand makes for a more "productive" visit, especially with references for how much each part should cost. An item I hoped to find but didn't was an equivalent to the [Molex universal crimper](https://www.amazon.com/Molex-63811-1000-Service-Grade-Crimping/dp/B00OVF2AKI) which goes for about $55 in the US. There were many other crimpers there though.
+I picked up a wall-wart supply, Wago connectors, nice DMM probes, and other small items--all for cheap. I hoped to find an equivalent to the [Molex universal crimper](https://www.amazon.com/Molex-63811-1000-Service-Grade-Crimping/dp/B00OVF2AKI) which goes for about $55 in the US, but no luck. There were many other crimpers there though.
 
 Across a small outdoor hallway was a 4+ floor building (赛格数码广场) dedicated to cell phones, computers, and accessories dealers. They had repair booths for computer and phone repair too. Here I bought a few cheap USB LED sticks and some iPhone selfie fans.
 
 Overall, talking with vendors about their products was straightforward and people were patient with me browsing. Interestingly, many of the vendors were women, sometimes with a toddler wandering nearby as they ate lunch surrounded by small piles of components.
 
-My feeling is that the energy and scale of Hua Qiang Bei far exceeds this market, but it was a lot of fun to poke around this part of Suzhou for a few hours. Looking forward to a trip to Shenzhen sometime!
+My feeling is that the energy and scale of Hua Qiang Bei far exceeds this market, but it was a lot of fun to poke around this part of Suzhou for a few hours. Looking forward, having a project BOM in hand with anticipated cost for each component seems to be pretty crucial to making a visit here "productive."
+
+Looking forward to a trip to Shenzhen sometime!
 
 
 <br>
